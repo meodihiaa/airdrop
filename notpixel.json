@@ -20,6 +20,11 @@
     "color": 10
   },
   {
+    "link": "https://t.me/notpixel/app?startapp=f1311866928_t",
+    "cdn": "529,561,914,933",
+    "color": 10
+  },
+  {
     "link": "https://t.me/notpixel/app?startapp=f5837589009_t",
     "cdn": "130,193,20,67",
     "color": 2
@@ -38,5 +43,21 @@
     "link": "https://t.me/notpixel/app?startapp=f1506332503_t",
     "cdn": "161,179,174,185",
     "color": 12
+  },
+  {
+    "link": "https://t.me/notpixel/app?startapp=f6506872783_t",
+    "cdn": "172,182,283,294",
+    "color": 22
+  },
+  {
+    "link": "https://t.me/notpixel/app?startapp=f407783378_t",
+    "cdn": "698,698,876,876",
+    "color": 18
+  },
+  
+  {
+    "link": "https://t.me/notpixel/app?startapp=f5050258882_t",
+    "cdn": "0,15,0,15",
+    "color": 18
   }
 ]
